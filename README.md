@@ -1,4 +1,4 @@
-ABSTRACT
+ABSTRACT :
 The proliferation of Internet of Things (IoT) devices has led to significant challenges in wireless network performance, particularly 
 in the realms of throughput, energy consumption, and latency. The IEEE 802.llah standard, also known as Wi-Fi HaLow, is specifically 
 tailored for IoT applications due to its extended range and penetration capabilities. However, the standard's performance in dense
